@@ -1,9 +1,5 @@
 ## Week One - Module 2 Recap
 
-Fork this respository. Answer the questions to the best of your ability. Try to answer them with limited amount of external research. These questions cover the majority of what we've learned this week (which is a TON!).
-
-Note: When you're done, submit a PR.
-
 1. List the five common HTTP verbs and what the purpose is of each verb.
 
 * **GET POST PUT PATCH DELETE**
